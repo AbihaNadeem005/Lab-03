@@ -1,6 +1,6 @@
 # Lab-03
 This line was added locally.
-This line was added remotely from GitHub.
+This line was updated remotely again.
 Second line added remotely.
 Second line added locally.
 
